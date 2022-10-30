@@ -69,7 +69,7 @@ global.psaweria = 'https://saweria.co/mrw4h1d'
 /*============== NOMOR ==============*/
 global.nomorbot = '16103406077'
 global.nomorown = '6288220924312'
-global.namebot = 'WH-MODS-BOT-V1'
+global.namebot = 'NaRaa-BOT'
 global.nameown = 'WH MODS DEV'
 
 /*============== Github Thanks To ==============*/
@@ -85,7 +85,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288220924312', 'WH MODS DEV', true],
+  ['6288220924312', 'NaRaaCans', true],
   ['-', '6288294052009', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
